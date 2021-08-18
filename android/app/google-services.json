@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1059094001707",
+    "firebase_url": "https://prakhar-sparks-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "prakhar-sparks",
+    "storage_bucket": "prakhar-sparks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059094001707:android:3ea665d13555d2765e926e",
+        "android_client_info": {
+          "package_name": "com.example.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059094001707-l7fsqg99mcl4ebklhesjs6rcnvt2d2jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialapp",
+            "certificate_hash": "5077cf29cc93198a34999c5a0c8b2667ce7c59cc"
+          }
+        },
+        {
+          "client_id": "1059094001707-96tp69cutc04lm931epk2qrvnq82vip1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChRPF1JMA9RCZHMlqViQrqk8Ldgj04Ycg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059094001707-96tp69cutc04lm931epk2qrvnq82vip1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
